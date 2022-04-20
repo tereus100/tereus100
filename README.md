@@ -11,7 +11,7 @@
 <br>
 - 🔭 Hoje estudo com front-end e back-end
 - <br>
-- 🌱 Curso Hacker na Gama Academy 
+- 🌱 Curso Hacker na Gama Academy de full stack
 <br>
 <br>
 <div>
