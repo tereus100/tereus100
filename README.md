@@ -20,9 +20,8 @@
 </div>
 <br>
 <br>
-- 🔭 Hoje estudo front-end e back-end
- <br>
-- 🌱 Curso Hacker na Gama Academy de full stack
+Desenvolvedor Full Stack em formação | Graduando Análises e desenvolvimento de sistemas na Unisuam.
+<br>Curso profissional Hacker Full stack no Gama Academy .
 <br>
 <br>
 
