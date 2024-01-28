@@ -37,10 +37,6 @@ Desenvolvedor Full Stack em formação | Graduando Análises e desenvolvimento d
 </div>
 <br><br>
 
-  JavaScript   6 hrs 19 mins   ████████████████▓░░░░░░░░   66.80 %
-TypeScript   2 hrs 46 mins   ███████▒░░░░░░░░░░░░░░░░░   29.36 %
-HTML         18 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.22 %
-Other        2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.37 %
 
   
 ##
